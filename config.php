@@ -13,7 +13,7 @@ Once done, save and check the widget, magic will happen.
 */
 
 //Server IP
-$ip = "localhost";
+$ip = "bmcserver.bounceme.net";
 
 //Server Port
 $port = "25565"; 
@@ -25,7 +25,7 @@ $headsurl = "Minotar";
 $headsize = "20";
 
 //Your offline message ! (Currently Now Working !, if your server is offline, it won't show anything !!)
-$offline = "Oh no, we're offline!";
+$offline = "Oh noes, the server is down :(";
 
 
 /* 
